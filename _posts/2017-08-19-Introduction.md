@@ -7,7 +7,7 @@ categories: jekyll update
 
 ![Alt text](/assets/1111.jpg)
 
-###NAME       : 노 준 영 
+###NAME       : 노 준 영 <br></br>
 ###BIRTHDAY   : 1991년 6월 27일
 ###ACADEMIC   : 초 대 졸
 ###HABITATION : 인 천
