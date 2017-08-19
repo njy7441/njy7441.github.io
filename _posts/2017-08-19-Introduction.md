@@ -5,7 +5,7 @@ date:   2017-08-19 11:49:45 +0200
 categories: jekyll update
 ---
 
-![It's Me](/assets/1111.jpg) {.aligncenter}
+![It's Me](/assets/1111.jpg) {: .center}
 
 #### NAME     : 노 준 영 <br/>
 #### BIRTHDAY   : 1991년 6월 27일
