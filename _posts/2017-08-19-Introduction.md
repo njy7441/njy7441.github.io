@@ -7,10 +7,10 @@ categories: jekyll update
 
 ![It's Me](/assets/1111.jpg)
 
-<h4>NAME     : 노 준 영</h4>
-#### BIRTHDAY   : 1991년 6월 27일
-#### ACADEMIC   : 초 대 졸
-#### HABITATION : 인 천
+#### NAME     : 노 준 영</hr>
+#### BIRTHDAY   : 1991년 6월 27일</hr>
+#### ACADEMIC   : 초 대 졸</hr>
+#### HABITATION : 인 천</hr>
 #### SELF-INTRODUCTION :
 안녕하세요. 인천에 살고있는 웹 개발자를 꿈꾸고있는 노준영이라고 합니다.
 전공은 IOT 전공이며 C언어와 하드웨어 네트워크를 조금씩 배웠씁니다.
